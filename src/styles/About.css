@@ -1,0 +1,102 @@
+/* About.css */
+.about {
+  padding: 4rem 0;
+  background-color: #fff;
+}
+
+.about .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.about .section-title {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.about .about-content {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .about .about-content {
+    flex-direction: column;
+  }
+}
+
+.about .about-text {
+  flex: 2;
+}
+
+.about .about-text h3 {
+  font-size: 1.8rem;
+  color: #3498db;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.about .about-text p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.about .about-text .about-details {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.about .about-text .about-details div strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.about .about-text blockquote {
+  font-style: italic;
+  color: #7f8c8d;
+  border-left: 4px solid #3498db;
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-size: 1.1rem;
+}
+
+.about .about-stats {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.about .about-stats .stat-box {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 200px;
+}
+
+.about .about-stats .stat-box h4 {
+  font-size: 2.5rem;
+  color: #3498db;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.about .about-stats .stat-box p {
+  font-size: 1.1rem;
+  color: #7f8c8d;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}

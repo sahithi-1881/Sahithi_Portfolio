@@ -1,0 +1,14 @@
+{
+  "short_name": "Sahithi Portfolio",
+  "name": "Sahithi Vangala - Data Analyst",
+  "icons": [{
+    "src": "sahithi-logo.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a2e",
+  "background_color": "#1a1a2e"
+}
