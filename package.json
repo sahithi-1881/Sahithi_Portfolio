@@ -3,7 +3,7 @@
   "description": "Sahithi Vangala's Data Analyst Portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahithi-1881.github.io/portfolio",
+  "homepage": "https://sahithi-1881.github.io/Sahithi_Portfolio",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/dom": "^10.4.0",

@@ -58,7 +58,7 @@ const Contact = () => {
             <p>Bloomington, Indiana</p>
             
             <h3>Email:</h3>
-            <p>svangal@iu.edu</p>
+            <p>sahithivangala23@gmail.com</p>
             
             <h3>Call:</h3>
             <p>+1 (812) 650 8866</p>
