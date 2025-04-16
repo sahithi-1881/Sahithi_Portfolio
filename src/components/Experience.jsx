@@ -41,7 +41,7 @@ const Experience = () => {
         
         <div className="experience-item">
           <h3>Master of Science in Data Science</h3>
-          <h4> Indiana University, Bloomington |  August 2023 - May 2025 | Albany, NY </h4>
+          <h4> Indiana University, Bloomington |  August 2023 - May 2025 | Bloomington, Indiana </h4>
           <p>Specialized in Analysis, problem solving and visualizing skills.</p>
         </div>
       </div>
