@@ -6,7 +6,7 @@ const Hero = () => {
     <section id="home" className="hero">
       <div className="hero-content">
         <h1>Sahithi Vangala</h1>
-        <h2>Graduate Student | Data Analyst</h2>
+        <h2>Data Analyst | MS in Data Science @ Indiana University Bloomington</h2>
         <div className="hero-cta">
         <a 
   href={`${process.env.PUBLIC_URL}/resume.pdf`} 
@@ -14,7 +14,7 @@ const Hero = () => {
   rel="noopener noreferrer"
   className="btn btn-primary"
 >
-  View Resume
+    Resume
 </a>
         </div>
       </div>

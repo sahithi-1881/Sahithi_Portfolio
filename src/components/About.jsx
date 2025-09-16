@@ -10,30 +10,14 @@ const About = () => {
           <div className="about-text">
             <h3>Data Analyst skilled in Analytics, Modeling & Management</h3>
             <p>
-            Data Analyst with 2 years of experience in SQL, Python, Power BI, and AWS, specializing in data pipelines,
- dashboards, and process optimization. Proven ability to translate complex data into actionable insights that
- support business decisions across healthcare, marketing, and nonprofit sectors.</p>
-            <div className="about-details">
-              <div>
-                <strong>Name:</strong> Sahithi Vangala
-              </div>
-              <div>
-                <strong>Email:</strong> svangal@iu.edu
-              </div>
-              <div>
-                <strong>Location:</strong> Bloomington, Indiana
-              </div>
-              <div>
-                <strong>Availability:</strong> Full-time
-              </div>
-            </div>
-            <blockquote>
-              "It is important to follow your dreams and heart. Do something that excites you."
-            </blockquote>
+              Data Analyst with experience in SQL, Python, Power BI, and AWS, specializing in data pipelines,
+              dashboards, and process optimization. Proven ability to translate complex data into actionable insights that
+              support business decisions across healthcare, marketing, and nonprofit sectors.
+            </p>
           </div>
           <div className="about-stats">
             <div className="stat-box">
-              <h4>2+ Years</h4>
+              <h4>2 Years</h4>
               <p>Experience</p>
             </div>
           </div>

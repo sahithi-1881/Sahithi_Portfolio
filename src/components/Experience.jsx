@@ -9,13 +9,13 @@ const Experience = () => {
         
         <div className="experience-item">
           <h3> Data Analyst</h3>
-          <h4>Project 990 | May 2024 - Present</h4>
+          <h4>Project 990 | May 2024 - July 2025</h4>
           <ul>
 
-          <li>Engineered an ETL pipeline with SQL & Python, processing 2.5M+ records, improving data throughput by 30%.</li> 
-          <li>Designed Tableau geographic heat maps for healthcare philanthropy, identifying 50+ under-served regions for resource allocation</li>
-          <li>Devised NLP features using spaCy to analyze 160,000 non-profit mission statements, extracting race and ethnicity insights for diversity initiatives</li>
-          <li>Created a Tableau dashboard to visualize education philanthropy deserts in 50+ regions, facilitating targeted educational funding to improve graduation rates</li>
+          <li>Architected an ETL pipeline using SQL, Python, processing 2.5M+ records, improving data throughput by 30%.</li> 
+          <li>Designed Tableau dashboards that highlighted key KPIs, trends, and funding disparities across 50 states,
+          enabling leadership to make data-driven funding decisions.</li>
+          <li>Performed segmentation analysis of grant distribution, uncovering disparities and supporting targeted funding recommendations.</li>
          </ul>
         </div>
         
@@ -23,18 +23,22 @@ const Experience = () => {
           <h3> Research Assistant</h3>
           <h4>Indiana University, Bloomington | August 2024 - December 2024</h4>
           <ul>
-           <li>Developed interactive Power BI dashboards visualizing 20+ years of crop and economic data for local farmers, improving actionable insights and operational efficiency by 25%</li>
-         <li>Implemented NLP-based news feeds using OpenAI’s GPT-4, summarizing real-time agricultural updates from 10+ sources, boosting user engagement by 30%</li>
-         <li>Curated a centralized data catalog with 100+ metadata entries, enhancing data accessibility and usability for diverse stakeholders across agricultural communities</li>
+         <li>Conducted EDA on USDA datasets using Python (Pandas, NumPy), identifying 20+ critical data quality issues and coverage gaps across agricultural indicators.</li>
+         <li>Crafted comprehensive Power BI dashboards using DAX calculations, visualizing 20+ years of crop and economic
+         time-series data, providing stakeholders with actionable agricultural insights.</li>
+         <li>Partnered with product and engineering teams to align dashboard design and KPI tracking with business
+          requirements, improving feature optimization.</li>
           </ul>        
           </div>
 
 <div className="experience-item">
           <h3> Marketing Data Analyst</h3>
-          <h4> EFORGE NexGen INNOVATIONS Pvt. Ltd. | October 2022 - April 2023</h4>
+          <h4> EFORGE NexGen INNOVATIONS Pvt. Ltd. | October 2022 - April 2023 | Hyderabad, India </h4>
           <ul>
-          <li> Analyzed market data in Excel to identify key consumer trends, driving a 15% increase in customer acquisition</li>
-          <li>Designed Power BI dashboards to track 20+ marketing KPIs, optimizing resource allocation and boosting campaign ROI by 25%</li>
+          <li>Analyzed campaign and customer data using Excel (PivotTables, Power Query) to identify behavioral trends,
+          increasing acquisition by 15%.</li>
+          <li>Mapped customer journeys and identified drop-off points across conversion funnels, leading to a 12% uplift in
+          lead-to-customer conversion.</li>
   </ul>      </div>
         
         <h2 className="section-title">Education</h2>

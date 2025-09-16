@@ -55,10 +55,10 @@ const Contact = () => {
         <div className="contact-container">
           <div className="contact-info">
             <h3>Location:</h3>
-            <p>Bloomington, Indiana</p>
+            <p>United States</p>
             
             <h3>Email:</h3>
-            <p>sahithivangala23@gmail.com</p>
+            <p>sahithivangala.1808@gmail.com</p>
             
             <h3>Call:</h3>
             <p>+1 (812) 650 8866</p>
