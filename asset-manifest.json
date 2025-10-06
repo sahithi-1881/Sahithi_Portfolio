@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/Sahithi_Portfolio/static/css/main.1545c533.css",
-    "main.js": "/Sahithi_Portfolio/static/js/main.14685651.js",
-    "static/media/icon.png": "/Sahithi_Portfolio/static/media/icon.d82bc717e87465ac3186.png",
+    "main.css": "/Sahithi_Portfolio/static/css/main.626d07bb.css",
+    "main.js": "/Sahithi_Portfolio/static/js/main.bcfcc211.js",
+    "static/media/clinical-data-analytics.jpg": "/Sahithi_Portfolio/static/media/clinical-data-analytics.9323d3c3406dfbd3e388.jpg",
+    "static/media/pp.jpg": "/Sahithi_Portfolio/static/media/pp.421e68cd7bfafa5b0c5a.jpg",
+    "static/media/Cust_seg.jpg": "/Sahithi_Portfolio/static/media/Cust_seg.38067936027ab2d0b6c9.jpg",
+    "static/media/stock market.jpg": "/Sahithi_Portfolio/static/media/stock market.5f8daf96d3833c236a01.jpg",
+    "static/media/chatbot.webp": "/Sahithi_Portfolio/static/media/chatbot.31d6973470936c83d09d.webp",
+    "static/media/survey.webp": "/Sahithi_Portfolio/static/media/survey.81dc61b03eef2c4d891e.webp",
+    "static/media/pw.jpg": "/Sahithi_Portfolio/static/media/pw.199739f2d1b6a70fcea7.jpg",
     "index.html": "/Sahithi_Portfolio/index.html",
-    "main.1545c533.css.map": "/Sahithi_Portfolio/static/css/main.1545c533.css.map",
-    "main.14685651.js.map": "/Sahithi_Portfolio/static/js/main.14685651.js.map"
+    "main.626d07bb.css.map": "/Sahithi_Portfolio/static/css/main.626d07bb.css.map",
+    "main.bcfcc211.js.map": "/Sahithi_Portfolio/static/js/main.bcfcc211.js.map"
   },
   "entrypoints": [
-    "static/css/main.1545c533.css",
-    "static/js/main.14685651.js"
+    "static/css/main.626d07bb.css",
+    "static/js/main.bcfcc211.js"
   ]
 }
